@@ -1,0 +1,158 @@
+/* Basic Variables */
+:root {
+    --bg-background: #f3f4f6; /* Light gray for main background */
+    --text-primary: #333; /* Dark text */
+    --bg-primary: #007bff; /* Blue primary color */
+    --bg-secondary: #ffffff; /* White */
+    --text-secondary: #ffffff; /* White text */
+    --bg-card: #ffffff; /* Card background */
+    --border-color: #ccc; /* Border color */
+    --bg-primary-hover: #0056b3; /* Darker blue on hover */
+    --transition-speed: 0.3s;
+}
+
+/* Base Container Styling */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: var(--text-primary);
+    background-color: var(--bg-primary);
+}
+
+.container {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.content-wrapper {
+    max-width: 768px;
+    width: 100%;
+    background-color: var(--bg-secondary);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styling */
+.header-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--bg-primary);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.intro-text {
+    font-size: 1rem;
+    text-align: center;
+    color: #555;
+    margin-bottom: 2rem;
+}
+
+/* Grid Layout */
+.grid-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .grid-layout {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Card and Form Styles */
+.contact-card,
+.message-form {
+    background-color: var(--bg-card);
+    padding: 1.5rem;
+    border-radius: 8px;
+    transition: box-shadow var(--transition-speed);
+}
+
+.contact-card:hover,
+.message-form:hover {
+    box-shadow: 0 8px 20px rgba(44, 23, 233, 1);
+}
+
+.card-title, .form-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--bg-primary);
+    margin-bottom: 1rem;
+}
+
+.contact-info {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+/* Form Styling */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-label {
+    display: block;
+    font-size: 1rem;
+    color: var(--bg-primary);
+    margin-bottom: 0.25rem;
+}
+
+.form-input {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid var(--border-color);
+    outline: none;
+    font-size: 1rem;
+    transition: border-color var(--transition-speed), box-shadow var(--transition-speed);
+}
+
+.form-input:focus {
+    border-color: var(--bg-primary);
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+}
+
+/* Button Styling */
+.submit-button {
+    background-color: var(--bg-primary);
+    color: var(--text-secondary);
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: background-color var(--transition-speed), transform var(--transition-speed);
+}
+
+.submit-button:hover {
+    background-color: var(--bg-primary-hover);
+}
+
+.submit-button:active {
+    transform: scale(0.98);
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.content-wrapper, .contact-card, .message-form {
+    animation: fadeIn 0.8s ease-in-out;
+}
