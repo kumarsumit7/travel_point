@@ -41,10 +41,11 @@
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    transition: border-radius 0.3s ease;
+    transition: box-shadow 0.3s ease, border-radius 0.3s ease;
   }
 .team-member-image:hover {
     border-radius: 10%;
+    box-shadow: 7px 7px 2px 1px rgba(0, 0, 255, .2);
 }
   
   .team-member-name {
@@ -73,6 +74,7 @@
     text-align: center;
     margin-left: 160px;
   }
+
 
 
 
