@@ -41,12 +41,8 @@
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    
-  }
-.team-member-image {
     transition: border-radius 0.3s ease;
-}
-
+  }
 .team-member-image:hover {
     border-radius: 10%;
 }
@@ -77,5 +73,6 @@
     text-align: center;
     margin-left: 160px;
   }
+
 
 
