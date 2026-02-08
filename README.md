@@ -1,52 +1,88 @@
-# 🛒 E-Commerce_By_MEAN-Stack - Your Complete Online Store Solution
+🌍 Travel Point – Travel Website
 
-## 📋 Table of Contents
-- [🚀 Getting Started](#-getting-started)
-- [💾 Download & Install](#-download--install)
-- [🌟 Features](#-features)
-- [🖥 System Requirements](#-system-requirements)
-- [❓ FAQ](#-faq)
-- [💬 Support](#-support)
+Travel Point is a responsive travel and tourism website designed to help users explore destinations, discover travel packages, and book memorable trips easily. The platform showcases popular tourist locations, holiday packages, traveller galleries, and inquiry features for planning vacations efficiently.
 
-## 🚀 Getting Started
-Welcome to the E-Commerce_By_MEAN-Stack repository. This software provides a full-stack solution for building your online store. It's built with the MEAN stack, which includes Angular for the front end and https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip for the back end. You don't need to know any programming to get started. Follow the steps below to set up your application.
+🔴 Live Demo:
+👉 https://kumarsumit7.github.io/travel_point/
 
-## 💾 Download & Install
-1. **Visit this page to download:** [E-Commerce_By_MEAN-Stack Releases](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip)
-2. Look for the most recent version. Click on the version number to see release details.
-3. Download the appropriate file for your operating system. You will find different formats available.
-4. After the download finishes, locate the downloaded file on your computer. 
-5. Open the file and follow the prompts to install the software.
+✨ Features
 
-## 🌟 Features
-- **JWT Authentication:** Secure user logins with JSON Web Tokens.
-- **Role-Based Access Control (RBAC):** Different user roles manage different permissions.
-- **Dynamic Product Catalog:** Easily manage and display various products.
-- **Comprehensive Admin Dashboard:** View analytics and manage products with ease.
+🏝️ Modern travel landing page with hero section
 
-These features make it simple to manage your online store while keeping it secure.
+🔐 Login & Signup navigation system
 
-## 🖥 System Requirements
-To run E-Commerce_By_MEAN-Stack, your system should meet the following requirements:
+🌎 Popular destinations showcase
 
-- **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent version of Linux.
-- **Memory:** At least 4 GB RAM; 8 GB recommended for smoother performance.
-- **Storage space:** At least 500 MB available for installation; more may be needed for product images and data.
-- **https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip** Version 14 or higher installed on your system. [Download https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip) if you don’t have it.
+🎒 Travel packages with pricing & duration
 
-Make sure your system meets these specifications to ensure successful installation and operation.
+🖼️ Traveller photo gallery
 
-## ❓ FAQ
-- **Do I need programming knowledge to use this software?**
-  No, you do not need programming knowledge to set up or use this application.
+📅 Travel inquiry & booking form
 
-- **Can I customize the look of my online store?**
-  Yes, there are options available for customization in the admin dashboard.
+📞 Contact & call-to-action sections
 
-- **Is there customer support if I run into issues?**
-  Yes, you can find support information below.
+👥 Team introduction & project details
 
-## 💬 Support
-For any questions or issues, feel free to reach out for help. You can open an issue in this repository or contact us directly via our support email provided in the `Contact` section of the dashboard.
+📱 Responsive design for better user experience
 
-Thank you for choosing E-Commerce_By_MEAN-Stack! Enjoy building your online store with our easy-to-use application.
+The site provides an easy travel planning interface including destinations like Los Angeles, Dubai, Spain and more, along with customizable travel packages and booking options.
+
+🧩 Website Sections
+
+Home Page
+
+About Us
+
+Destinations
+
+Packages
+
+Gallery
+
+Contact Us
+
+Users can explore travel information, view packages with pricing and reviews, and send inquiries directly from the website.
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Responsive Web Design
+
+GitHub Pages (Deployment)
+
+👨‍💻 Team Members
+
+Vikash Kumar – Team Leader
+
+Sumit Kumar – Security Analytics
+
+Md Talha Anwar – Designer
+
+Nishant Kumar Pandey – Developer
+
+🎯 Project Purpose
+
+The goal of Travel Point is to provide a simple and interactive platform where users can:
+
+Discover new travel destinations
+
+View affordable travel packages
+
+Plan and inquire about vacations
+
+Enjoy a visually appealing travel experience
+
+📌 How to Use
+
+Visit the live website.
+
+Browse destinations or packages.
+
+Choose a package.
+
+Click Book Now or send an inquiry.
