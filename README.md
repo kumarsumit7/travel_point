@@ -1,7 +1,5 @@
 # 🛒 E-Commerce_By_MEAN-Stack - Your Complete Online Store Solution
 
-[![Download E-Commerce_By_MEAN-Stack](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip%20Now-orange)](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip)
-
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
 - [💾 Download & Install](#-download--install)
