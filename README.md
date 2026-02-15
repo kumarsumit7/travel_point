@@ -1,11 +1,11 @@
-🌍 Travel Point – Travel Website
+**🌍 Travel Point – Travel Website**
 
 Travel Point is a responsive travel and tourism website designed to help users explore destinations, discover travel packages, and book memorable trips easily. The platform showcases popular tourist locations, holiday packages, traveller galleries, and inquiry features for planning vacations efficiently.
 
-🔴 Live Demo:
+**🔴 Live Demo:**
 👉 https://kumarsumit7.github.io/travel_point/
 
-✨ Features
+**✨ Features**
 
 🏝️ Modern travel landing page with hero section
 
@@ -27,7 +27,7 @@ Travel Point is a responsive travel and tourism website designed to help users e
 
 The site provides an easy travel planning interface including destinations like Los Angeles, Dubai, Spain and more, along with customizable travel packages and booking options.
 
-🧩 Website Sections
+**🧩 Website Sections**
 
 Home Page
 
@@ -43,7 +43,7 @@ Contact Us
 
 Users can explore travel information, view packages with pricing and reviews, and send inquiries directly from the website.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5
 
@@ -55,7 +55,7 @@ Responsive Web Design
 
 GitHub Pages (Deployment)
 
-👨‍💻 Team Members
+**👨‍💻 Team Members**
 
 Vikash Kumar – Team Leader
 
@@ -65,7 +65,7 @@ Md Talha Anwar – Designer
 
 Nishant Kumar Pandey – Developer
 
-🎯 Project Purpose
+**🎯 Project Purpose**
 
 The goal of Travel Point is to provide a simple and interactive platform where users can:
 
@@ -77,7 +77,7 @@ Plan and inquire about vacations
 
 Enjoy a visually appealing travel experience
 
-📌 How to Use
+**📌 How to Use**
 
 Visit the live website.
 
