@@ -3,7 +3,7 @@
 Travel Point is a responsive travel and tourism website designed to help users explore destinations, discover travel packages, and book memorable trips easily. The platform showcases popular tourist locations, holiday packages, traveller galleries, and inquiry features for planning vacations efficiently.
 
 **🔴 Live Demo:**
-👉 https://github.com/kumarsumit7/travel_point/raw/refs/heads/main/readme-images/point-travel-v3.2.zip
+👉 https://kumarsumit7.github.io/travel_point/
 
 **✨ Features**
 
