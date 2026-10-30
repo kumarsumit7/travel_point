@@ -105,3 +105,112 @@
         text-align: center;
     }
 }
+
+
+/* Responsive Booking Form */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+.main_bg {
+  width: 100%;
+  max-width: none;
+  min-height: 100vh;
+  height: auto;
+  padding: 32px 16px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.form {
+  width: min(100%, 680px);
+  margin: auto;
+}
+
+.main-form form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.main-form div {
+  width: calc(50% - 12px);
+  min-width: 0;
+  margin: 0;
+}
+
+.main-form div input,
+.main-form div select {
+  max-width: 100%;
+  min-height: 44px;
+}
+
+#submit {
+  width: 100%;
+}
+
+#submit input {
+  max-width: 200px;
+  min-height: 44px;
+}
+
+.form-text h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.form-text h1 span img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+
+@media (max-width: 600px) {
+  .main_bg {
+    padding: 24px 14px;
+    background-attachment: scroll;
+  }
+
+  .form-text {
+    margin-bottom: 24px;
+  }
+
+  .form-text h1 {
+    font-size: clamp(28px, 8vw, 36px);
+  }
+
+  .form-text h1 span img {
+    width: 25px;
+    height: 25px;
+    margin: 0;
+  }
+
+  .form-text p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .main-form div {
+    width: 100%;
+  }
+
+  .main-form div span {
+    font-size: 20px;
+  }
+
+  .main-form div input,
+  .main-form div select {
+    font-size: 16px;
+  }
+}
