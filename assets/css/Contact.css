@@ -156,3 +156,84 @@ body, html {
 .content-wrapper, .contact-card, .message-form {
     animation: fadeIn 0.8s ease-in-out;
 }
+
+
+
+/* Responsive Contact Page */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: clamp(14px, 4vw, 32px);
+}
+
+.content-wrapper {
+  max-width: 900px;
+  padding: clamp(18px, 4vw, 32px);
+}
+
+.grid-layout {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.contact-info {
+  overflow-wrap: anywhere;
+}
+
+.form-input {
+  min-width: 0;
+}
+
+.submit-button {
+  width: 100%;
+  min-height: 44px;
+}
+
+@media (max-width: 650px) {
+  .container {
+    align-items: flex-start;
+    padding: 16px 12px;
+  }
+
+  .content-wrapper {
+    padding: 20px 16px;
+  }
+
+  .header-title {
+    font-size: 1.65rem;
+  }
+
+  .intro-text {
+    font-size: .95rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .grid-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 14px;
+  }
+
+  .contact-card,
+  .message-form {
+    padding: 18px 14px;
+  }
+
+  .contact-info {
+    font-size: .9rem;
+    line-height: 1.5;
+  }
+
+  .form-input {
+    font-size: 16px;
+  }
+}
+
